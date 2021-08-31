@@ -1,2 +1,2 @@
 # rock-scissor-paper-game
-# <h4>my first project with c</h4>
+# <h2>my first project with c</h2>
