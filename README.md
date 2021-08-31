@@ -1,2 +1,2 @@
-# rock-scissor-paper-game\
-#my first project with c
+# rock-scissor-paper-game
+# my first project with c
